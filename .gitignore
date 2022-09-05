@@ -1,0 +1,8 @@
+*.zip
+*.pkl
+not_used/**
+tmp/*
+.vscode/settings.json
+src/__pycache__/**
+dictionaries/colocations/KSSS/**
+test_input_texts
