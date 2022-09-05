@@ -16,7 +16,7 @@ Datoteke v vrsticah vsebujejo lektorirane in prečiščene povedi iz korpusa [Le
 
 
 
-## Quickstart and installation instrctions
+## Quickstart and installation instructions
 1. requirements:
     - conda
     - cuda drivers (optionally?)
