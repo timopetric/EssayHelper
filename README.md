@@ -54,5 +54,10 @@ V direktoriju `corpus/Lektor/` so tri datoteke, ki smo jih uporabili za učeneje
 Datoteke v vrsticah vsebujejo lektorirane in prečiščene povedi iz korpusa [Lektor](https://slovenscina.u3p.si/korpusi/lektor/).
 
 
+### Zahvala
+Pri razvoju smo uporabili korpus [Šolar](http://ssj.slovenscina.eu/korpusi/solar). Za podporo se zahvaljujemo projektu PROP - Empirična podlaga za digitalno podprt razvoj pisne jezikovne zmožnosti (št. J7-3159), ki ga sofinancira Javna agencija za raziskovalno dejavnost Republike Slovenije iz državnega proračuna.
+
+
+
 <br><br>
-*Contact me or open a new issue if you have any questions or have truble setting up the environment.*
+<sub>*Contact me or open a new issue if you have any questions or have truble setting up the environment.*</sub>
