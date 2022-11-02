@@ -55,7 +55,7 @@ Datoteke v vrsticah vsebujejo lektorirane in prečiščene povedi iz korpusa [Le
 
 
 ### Zahvala
-Pri razvoju smo uporabili korpus [Šolar](http://ssj.slovenscina.eu/korpusi/solar). Za podporo se zahvaljujemo projektu PROP - Empirična podlaga za digitalno podprt razvoj pisne jezikovne zmožnosti (št. J7-3159), ki ga sofinancira Javna agencija za raziskovalno dejavnost Republike Slovenije iz državnega proračuna.
+Pri razvoju smo uporabili korpus [Šolar](http://hdl.handle.net/11356/1589). Za podporo se zahvaljujemo projektu PROP - Empirična podlaga za digitalno podprt razvoj pisne jezikovne zmožnosti (št. J7-3159), ki ga sofinancira Javna agencija za raziskovalno dejavnost Republike Slovenije iz državnega proračuna.
 
 
 
